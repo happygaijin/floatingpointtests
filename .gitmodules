@@ -1,0 +1,6 @@
+[submodule "build/rake-dotnet"]
+	path = build/rake-dotnet
+	url = git@github.dev.xero.com:Xero/Rake-Dot-Net-Stub.git
+[submodule "project/Paycycle.MVC3/static"]
+	path = project/Paycycle.MVC3/static
+	url = git@github.dev.xero.com:Xero/Content.git
